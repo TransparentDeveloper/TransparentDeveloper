@@ -1,16 +1,30 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <img src="./assets/hero-light.svg" alt="이윤신 — Frontend Developer" width="100%">
+</picture>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=280&section=header&text=TransparentDeveloper&fontColor=1E8CFA&fontAlign=42)
+#### Core
 
-<div direction=row>
-  
- #### Front-End
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-</div>
-<div direction=row>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
 
+#### Expanding
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white">
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TransparentDeveloper&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=22D3EE&text_color=94A3B8&ring_color=38BDF8">
+  <img src="https://github-readme-stats.vercel.app/api?username=TransparentDeveloper&show_icons=true&hide_border=true&bg_color=F8FAFC&title_color=0284C7&icon_color=0284C7&text_color=334155&ring_color=0284C7" alt="GitHub stats" height="170">
+</picture> <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TransparentDeveloper&layout=compact&langs_count=8&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=94A3B8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TransparentDeveloper&layout=compact&langs_count=8&hide_border=true&bg_color=F8FAFC&title_color=0284C7&text_color=334155" alt="Top languages" height="170">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TransparentDeveloper/TransparentDeveloper/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/TransparentDeveloper/TransparentDeveloper/output/github-snake.svg" alt="contribution snake" width="100%">
+</picture>
 
 #### 최신 벨로그 게시글
 <!-- VelogPostsStart -->
