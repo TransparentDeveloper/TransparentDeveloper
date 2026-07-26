@@ -14,14 +14,6 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TransparentDeveloper&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=22D3EE&text_color=94A3B8&ring_color=38BDF8">
-  <img src="https://github-readme-stats.vercel.app/api?username=TransparentDeveloper&show_icons=true&hide_border=true&bg_color=F8FAFC&title_color=0284C7&icon_color=0284C7&text_color=334155&ring_color=0284C7" alt="GitHub stats" height="170">
-</picture> <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TransparentDeveloper&layout=compact&langs_count=8&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=94A3B8">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TransparentDeveloper&layout=compact&langs_count=8&hide_border=true&bg_color=F8FAFC&title_color=0284C7&text_color=334155" alt="Top languages" height="170">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TransparentDeveloper/TransparentDeveloper/output/github-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/TransparentDeveloper/TransparentDeveloper/output/github-snake.svg" alt="contribution snake" width="100%">
 </picture>
